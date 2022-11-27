@@ -2,7 +2,6 @@ import re
 
 
 def checkNumber(test_string):
-    # test_string = '212.456.7890'
 
     patterns = {"[0-9]{10}",
                 "[0-9]{3}[-][0-9]{3}[-][0-9]{4}",
@@ -23,4 +22,4 @@ def checkNumber(test_string):
 
 
 if __name__ == "__main__":
-    print(checkNumber("1234567890"))
+    print(checkNumber("212.456.7890"))
