@@ -1,0 +1,10 @@
+One-Line Answers (Answers to be written on .txt file)-
+A. What is reverse-i-search in a Linux terminal?
+-  reverse-i-search is the search from the command history stack, it peeks the last command that executed and does an incremental search with up arrow. 
+B. How do you list out the hidden directories using Linux command line tool?
+-  By using: ls -l
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+-  I would rate myself 3 out of 5.
+D. Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+-  Yes, I have used apache tomcat in springboot project.
